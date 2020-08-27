@@ -6,7 +6,7 @@ public class Sonders {
 		System.out.println("Java dersi bitti.");
 		System.out.println("Hayirli olsun.");
 		System.out.println("Sonunda commit yapabildim");
-
+		System.out.println("Simdi fetch yapalim");
 	}
 
 }
